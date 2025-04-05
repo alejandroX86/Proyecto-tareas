@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-tareas",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de tareas con costos y complejidades",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
